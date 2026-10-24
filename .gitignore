@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+ENV/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+spending_report.txt
